@@ -1,1 +1,2 @@
-(Comment to your facebook wall) [http://itz-solutions.com/ngSocial/]
+(Comment to your facebook wall) 
+[ Login with facebook](http://itz-solutions.com/ngSocial/)
